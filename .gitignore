@@ -1,2 +1,3 @@
 localvenv
 gzip-compression/__pycache__
+gzip-compression/example.gz
